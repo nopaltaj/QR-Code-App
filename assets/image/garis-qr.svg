@@ -1,0 +1,22 @@
+<svg width="333" height="333" viewBox="0 0 333 333" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-outside-1_1_2" maskUnits="userSpaceOnUse" x="49" y="49" width="88" height="88" fill="black">
+<rect fill="white" x="49" y="49" width="88" height="88"/>
+<path d="M51 51H137V137H51V51Z"/>
+</mask>
+<path d="M51 51V49H49V51H51ZM51 53H137V49H51V53ZM53 137V51H49V137H53Z" fill="white" mask="url(#path-1-outside-1_1_2)"/>
+<mask id="path-3-outside-2_1_2" maskUnits="userSpaceOnUse" x="195" y="49" width="88" height="88" fill="black">
+<rect fill="white" x="195" y="49" width="88" height="88"/>
+<path d="M281 51V137H195V51L281 51Z"/>
+</mask>
+<path d="M281 51H283V49H281V51ZM279 51V137H283V51H279ZM195 53L281 53V49L195 49V53Z" fill="white" mask="url(#path-3-outside-2_1_2)"/>
+<mask id="path-5-outside-3_1_2" maskUnits="userSpaceOnUse" x="195" y="195" width="88" height="88" fill="black">
+<rect fill="white" x="195" y="195" width="88" height="88"/>
+<path d="M281 281V195H195V281H281Z"/>
+</mask>
+<path d="M281 281H283V283H281V281ZM279 281V195H283V281H279ZM195 279H281V283H195V279Z" fill="white" mask="url(#path-5-outside-3_1_2)"/>
+<mask id="path-7-outside-4_1_2" maskUnits="userSpaceOnUse" x="49" y="195" width="88" height="88" fill="black">
+<rect fill="white" x="49" y="195" width="88" height="88"/>
+<path d="M51 281H137V195H51L51 281Z"/>
+</mask>
+<path d="M51 281V283H49V281H51ZM51 279H137V283H51V279ZM53 195L53 281H49L49 195H53Z" fill="white" mask="url(#path-7-outside-4_1_2)"/>
+</svg>
